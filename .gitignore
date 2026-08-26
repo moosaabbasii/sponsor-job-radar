@@ -1,0 +1,8 @@
+# Runtime job data may contain local search history and changes frequently.
+data/store.json
+
+# Node and operating-system files
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
